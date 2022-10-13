@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-13T15:33:13 IST" name="Suite" finished-at="2022-10-13T15:33:13 IST" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2022-10-13T15:33:13 IST" name="Test" finished-at="2022-10-13T15:33:13 IST" duration-ms="56">
+      <class name="com.asserts.Assertions">
+        <test-method signature="NumberAccuracy()[pri:0, instance:com.asserts.Assertions@306cf3ea]" started-at="2022-10-13T15:33:13 IST" name="NumberAccuracy" finished-at="2022-10-13T15:33:13 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberAccuracy -->
+        <test-method signature="NumberAccuracy2()[pri:0, instance:com.asserts.Assertions@306cf3ea]" started-at="2022-10-13T15:33:13 IST" name="NumberAccuracy2" finished-at="2022-10-13T15:33:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberAccuracy2 -->
+        <test-method signature="NumberAccuracy3()[pri:0, instance:com.asserts.Assertions@306cf3ea]" started-at="2022-10-13T15:33:13 IST" name="NumberAccuracy3" finished-at="2022-10-13T15:33:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberAccuracy3 -->
+      </class> <!-- com.asserts.Assertions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
